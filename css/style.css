@@ -1,0 +1,19 @@
+#menu {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aquamarine;
+    font-size: 25px;
+    color: rgb(245, 26, 154);
+    
+}
+#mu {
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(105, 114, 243);
+    font-size: 25px;
+    color: rgb(240, 243, 69);
+}
